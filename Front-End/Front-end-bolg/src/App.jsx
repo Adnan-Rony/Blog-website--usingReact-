@@ -1,13 +1,14 @@
 
 import './App.css'
+import Navber from './components/Navber'
 
 function App() {
   
 
   return (
-    <>
-      <p className='text-4xl'>adnan</p>
-    </>
+    <main>
+      <Navber></Navber>
+    </main>
   )
 }
 

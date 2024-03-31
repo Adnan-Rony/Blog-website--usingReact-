@@ -1,0 +1,6 @@
+.hide{
+   @apply opacity-0 pointer-events-auto duration-100
+}
+.show{
+    @apply opacity-100 pointer-events-auto
+}
